@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477619926685",
+    "firebase_url": "https://mdc-material-kotlin-gustavo.firebaseio.com",
+    "project_id": "mdc-material-kotlin-gustavo",
+    "storage_bucket": "mdc-material-kotlin-gustavo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477619926685:android:a31f33a72218a906",
+        "android_client_info": {
+          "package_name": "com.google.codelabs.mdc.kotlin.shrine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477619926685-56tcvd09jv94pe5utvjadng2idm11ts3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pKLhxB4sqh_E2dYBry4hyiqG-a9KAVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477619926685-56tcvd09jv94pe5utvjadng2idm11ts3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

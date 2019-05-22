@@ -1,0 +1,1 @@
+com.google.codelabs.mdc.kotlin.shrine

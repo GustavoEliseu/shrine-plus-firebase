@@ -1,0 +1,480 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\66ee49eb2a2d2bbd7253ca7f21291b3d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\8524e4bd3ba3e6732d5e9b0226de0fae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\da1dd4b4f29773d49dfda7c42fa7251b\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b5adcab106a128ac9a672732857481c5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a8fdf73afc32d6cbea74946f5add7840\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f309d13965e8285b6007a4a88c0095\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\629dd7ea8c8619b130a70c20e024579e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\0b976993280f88dce0f0b9f465b103af\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88aea12d83bcb474bc03379ba24d3a03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\037ab7966056cddc2dd03e8c68e62d60\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f43cf7c791b9c929e67cd8415a6f63d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\9fe9b9c79ef5ddbdcac97c1227b10be2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\856ded6cdc4387b5cc24925ff88f4490\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2403985e846fae552ae4b0fb8190fd5c\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f19dc9b9691a81d4d398d581b71e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\848763c001c768d5c6427844e3100e63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\180b106b6dc8c4b8b06659c4a2833d87\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\d4942ef26ef4511f1fa7ade203a02282\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\236afac8b4ddee014f809ffcf75c8aa0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\90f5e3ee943053a6bbc5e8771c0dfbb9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\ff7f1ffadee061a4905ef19284162b96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\c6c90b04d2971def34e4c46e4501cb3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\d71df6565cc96d6e89ae939e6254a7ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\03897d3ed19e1e72c2be80279e006551\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\de55b4f2d7a342f17506a6c730399a87\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\293360e63a402249c4bef1014ccbc2ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5018848919cb14343fb634f67e13dacd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a5da806abff07dd2867436547fe1fcbe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5a563ef7609e52a7294111d3c5897cef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cebc6a41d7e40b424580e8c57569fea1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\344be3d37b4982dc539206a194744212\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\85cceeabf67c314c544e95ead9eb394e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a5347e61aadf29fe69cfcb314b00b4dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f759643613bb9e2e85ba9d16c1eecad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\c89576605df4e5d05c2d72d96855a3d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\929bc305292b8b849ae9de6ef155c888\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\8a9af690053efb650665f3f40d704b25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\e9dcf09021d32bd9337739ad063d81fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5a4816f364868934514becccd89c7f38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\963aaa682d2066d7bb47dbc3df73bf6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\3adb3df4286a9a36c86e2a22a3c38637\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\352b4aa09e76cd815a5a2c46c446e309\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\52949c9281fe7f6cef628c7a84eed538\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\997640ac09192a1d0b103bce082c0df4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\eb7a66f7efa824e26395cf51dcb65dec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88956ed94643dc0f8fbc47fd532ac43e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\483f7baa2b1f5088406b9c2da54de8be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\10590a353bec8cfa9ab2f14b27d08a7a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\66ee49eb2a2d2bbd7253ca7f21291b3d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\66ee49eb2a2d2bbd7253ca7f21291b3d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\da1dd4b4f29773d49dfda7c42fa7251b\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\da1dd4b4f29773d49dfda7c42fa7251b\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b5adcab106a128ac9a672732857481c5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b5adcab106a128ac9a672732857481c5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a8fdf73afc32d6cbea74946f5add7840\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a8fdf73afc32d6cbea74946f5add7840\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f309d13965e8285b6007a4a88c0095\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f309d13965e8285b6007a4a88c0095\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\629dd7ea8c8619b130a70c20e024579e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\629dd7ea8c8619b130a70c20e024579e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\0b976993280f88dce0f0b9f465b103af\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\0b976993280f88dce0f0b9f465b103af\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88aea12d83bcb474bc03379ba24d3a03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88aea12d83bcb474bc03379ba24d3a03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\037ab7966056cddc2dd03e8c68e62d60\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\037ab7966056cddc2dd03e8c68e62d60\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f43cf7c791b9c929e67cd8415a6f63d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f43cf7c791b9c929e67cd8415a6f63d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\9fe9b9c79ef5ddbdcac97c1227b10be2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\9fe9b9c79ef5ddbdcac97c1227b10be2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2403985e846fae552ae4b0fb8190fd5c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2403985e846fae552ae4b0fb8190fd5c\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\3adb3df4286a9a36c86e2a22a3c38637\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\3adb3df4286a9a36c86e2a22a3c38637\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\352b4aa09e76cd815a5a2c46c446e309\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\352b4aa09e76cd815a5a2c46c446e309\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\3adb3df4286a9a36c86e2a22a3c38637\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:11:9-45
+	android:roundIcon
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:14:9-91
+activity#com.google.codelabs.mdc.kotlin.shrine.MainActivity
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\66ee49eb2a2d2bbd7253ca7f21291b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\66ee49eb2a2d2bbd7253ca7f21291b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\8524e4bd3ba3e6732d5e9b0226de0fae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\8524e4bd3ba3e6732d5e9b0226de0fae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\da1dd4b4f29773d49dfda7c42fa7251b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\da1dd4b4f29773d49dfda7c42fa7251b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b5adcab106a128ac9a672732857481c5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b5adcab106a128ac9a672732857481c5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a8fdf73afc32d6cbea74946f5add7840\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a8fdf73afc32d6cbea74946f5add7840\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f309d13965e8285b6007a4a88c0095\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f309d13965e8285b6007a4a88c0095\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\629dd7ea8c8619b130a70c20e024579e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\629dd7ea8c8619b130a70c20e024579e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\0b976993280f88dce0f0b9f465b103af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\0b976993280f88dce0f0b9f465b103af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88aea12d83bcb474bc03379ba24d3a03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88aea12d83bcb474bc03379ba24d3a03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\037ab7966056cddc2dd03e8c68e62d60\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\037ab7966056cddc2dd03e8c68e62d60\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f43cf7c791b9c929e67cd8415a6f63d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f43cf7c791b9c929e67cd8415a6f63d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\9fe9b9c79ef5ddbdcac97c1227b10be2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\9fe9b9c79ef5ddbdcac97c1227b10be2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\856ded6cdc4387b5cc24925ff88f4490\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\856ded6cdc4387b5cc24925ff88f4490\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2403985e846fae552ae4b0fb8190fd5c\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2403985e846fae552ae4b0fb8190fd5c\AndroidManifest.xml:7:5-43
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f19dc9b9691a81d4d398d581b71e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\b0f19dc9b9691a81d4d398d581b71e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\848763c001c768d5c6427844e3100e63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\848763c001c768d5c6427844e3100e63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\180b106b6dc8c4b8b06659c4a2833d87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\180b106b6dc8c4b8b06659c4a2833d87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\d4942ef26ef4511f1fa7ade203a02282\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\d4942ef26ef4511f1fa7ade203a02282\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\236afac8b4ddee014f809ffcf75c8aa0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\236afac8b4ddee014f809ffcf75c8aa0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\90f5e3ee943053a6bbc5e8771c0dfbb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\90f5e3ee943053a6bbc5e8771c0dfbb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\ff7f1ffadee061a4905ef19284162b96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\ff7f1ffadee061a4905ef19284162b96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\c6c90b04d2971def34e4c46e4501cb3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\c6c90b04d2971def34e4c46e4501cb3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\d71df6565cc96d6e89ae939e6254a7ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\d71df6565cc96d6e89ae939e6254a7ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\03897d3ed19e1e72c2be80279e006551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\03897d3ed19e1e72c2be80279e006551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\de55b4f2d7a342f17506a6c730399a87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\de55b4f2d7a342f17506a6c730399a87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\293360e63a402249c4bef1014ccbc2ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\293360e63a402249c4bef1014ccbc2ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5018848919cb14343fb634f67e13dacd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5018848919cb14343fb634f67e13dacd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a5da806abff07dd2867436547fe1fcbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a5da806abff07dd2867436547fe1fcbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5a563ef7609e52a7294111d3c5897cef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5a563ef7609e52a7294111d3c5897cef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cebc6a41d7e40b424580e8c57569fea1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cebc6a41d7e40b424580e8c57569fea1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\344be3d37b4982dc539206a194744212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\344be3d37b4982dc539206a194744212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\85cceeabf67c314c544e95ead9eb394e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\85cceeabf67c314c544e95ead9eb394e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a5347e61aadf29fe69cfcb314b00b4dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a5347e61aadf29fe69cfcb314b00b4dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f759643613bb9e2e85ba9d16c1eecad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\2f759643613bb9e2e85ba9d16c1eecad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\c89576605df4e5d05c2d72d96855a3d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\c89576605df4e5d05c2d72d96855a3d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\929bc305292b8b849ae9de6ef155c888\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\929bc305292b8b849ae9de6ef155c888\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\8a9af690053efb650665f3f40d704b25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\8a9af690053efb650665f3f40d704b25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\e9dcf09021d32bd9337739ad063d81fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\e9dcf09021d32bd9337739ad063d81fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5a4816f364868934514becccd89c7f38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5a4816f364868934514becccd89c7f38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\963aaa682d2066d7bb47dbc3df73bf6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\963aaa682d2066d7bb47dbc3df73bf6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\3adb3df4286a9a36c86e2a22a3c38637\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\3adb3df4286a9a36c86e2a22a3c38637\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\352b4aa09e76cd815a5a2c46c446e309\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\352b4aa09e76cd815a5a2c46c446e309\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\52949c9281fe7f6cef628c7a84eed538\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\52949c9281fe7f6cef628c7a84eed538\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\997640ac09192a1d0b103bce082c0df4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\997640ac09192a1d0b103bce082c0df4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\eb7a66f7efa824e26395cf51dcb65dec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\eb7a66f7efa824e26395cf51dcb65dec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88956ed94643dc0f8fbc47fd532ac43e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\88956ed94643dc0f8fbc47fd532ac43e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\483f7baa2b1f5088406b9c2da54de8be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\483f7baa2b1f5088406b9c2da54de8be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\10590a353bec8cfa9ab2f14b27d08a7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\10590a353bec8cfa9ab2f14b27d08a7a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gusta\AndroidStudioProjects\shrine\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\7dc29fffb1bc3d6e58f28c03e54343ac\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\cbc77ea5166c613dd616fd0c18acd46d\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\118814a5eaba9c2f9876c4fe6d3cd9bf\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\a7d2e87084fdef921bb0f4dff285f5d3\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\32278a38f2049c2887bb8bc03137c51e\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\76a0bb7f8128ac7067c3c850e97c0db3\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\5fd2c1bef4ea3b4204ce9636bfb43afe\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\005c24c14bf59b402a9f8578995d8ee4\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\gusta\.gradle\caches\transforms-2\files-2.1\91f416fe20b50fe08fc71ed92a8e42ba\AndroidManifest.xml:24:13-58
